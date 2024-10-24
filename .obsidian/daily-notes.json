@@ -1,0 +1,5 @@
+{
+  "folder": "/daily-notes",
+  "template": "templater-templates/template - daily-note",
+  "format": "YYY/MMMM/YYYY-MM-DD"
+}

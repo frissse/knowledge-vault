@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "2243c9c2d13decc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e193bbac1c8596ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2657131e2a43a03",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "229c36638647e785",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a59ae44ed8a0f70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "706bc771f1684dec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b25f7c44ca5895f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3e486b6add804170",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96468693f643b353",
+    "type": "split",
+    "children": [
+      {
+        "id": "8301133f2831d631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c010b341d4266243",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "54cad3ce3d3d887f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "subjects/NT/NT 2G.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for NT 2G"
+            }
+          },
+          {
+            "id": "34435d87b22ac39f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "subjects/NT/NT 2G.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from NT 2G"
+            }
+          },
+          {
+            "id": "4c63cc1a750481cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5d5a47191bfd6f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "subjects/NT/NT 2G.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of NT 2G"
+            }
+          },
+          {
+            "id": "9c24be52918128a5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
+    }
+  },
+  "active": "f2657131e2a43a03",
+  "lastOpenFiles": [
+    "documentation/NT networking.md",
+    "subjects/NT/NT 3G.md",
+    "subjects/NT/NT EDGE.md",
+    "tools-software/,wordpress.md",
+    "tools-software/,scapy.md",
+    "tools-software/,nikto.md",
+    "tools-software/,metasploit.md",
+    "tools-software/,dirb.md",
+    "tools-software/,GTFObin.md",
+    "subjects/PR/PR python.md",
+    "subjects/NT/NT xDSL.md",
+    "subjects/NT/NT upstream.md",
+    "subjects/NT/NT topologie.md",
+    "subjects/NT/NT switch.md",
+    "subjects/NT/NT scrambling.md",
+    "subjects/NT/NT run length encoding.md",
+    "subjects/NT/NT powerline.md",
+    "subjects/NT/NT packet switching.md",
+    "subjects/NT/NT modulation.md",
+    "subjects/NT/NT modem.md",
+    "subjects/NT/NT last mile.md",
+    "subjects/NT/NT infrastructure topologie.md",
+    "subjects/NT/NT gain.md",
+    "subjects/NT/NT frequency hopping.md",
+    "subjects/NT/NT fase.md",
+    "subjects/NT/NT echo cancellation.md",
+    "attachments/screenshot_3.png",
+    "attachments/screenshot_2.png",
+    "attachments/screenshot_1.png",
+    "attachments/screenshot7.png",
+    "attachments/screenshot6.png",
+    "attachments/screenshot5.png",
+    "attachments/screenshot4.png",
+    "attachments/net3-p1w6-theorie-voip.pptx",
+    "attachments/net3-p1w6-theorie-gsm.pptx",
+    "attachments/net3-p1w6-theorie-gsm.pdf",
+    "attachments/net3-p1w5-theorie-rfid.pptx",
+    "attachments/net3-p1w5-theorie-rfid 1.pptx",
+    "attachments/net3-p1w5-theorie-ir.pptx",
+    "attachments/net3-p1w5-theorie-ir 1.pptx",
+    "attachments/net3-p1w5-theorie-ipv6.pptx",
+    "attachments/net3-p1w5-theorie-cursus-ipv6.odt",
+    "attachments/net3-p1w5-theorie-bluetooth.pptx",
+    "attachments/Pasted image 20241023174258.png",
+    "attachments/Pasted image 20241023173859.png",
+    "attachments/Pasted image 20241023172414.png"
+  ]
+}

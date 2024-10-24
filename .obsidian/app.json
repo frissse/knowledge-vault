@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "/attachments",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source",
+  "readableLineLength": false,
+  "vimMode": true,
+  "spellcheck": false,
+  "showLineNumber": true
+}
